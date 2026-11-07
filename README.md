@@ -36,6 +36,6 @@ python3 install.py remove --game-dir "/path/to/8BitBoy"
 
 Menu navigation was tested on Windows using simulated gamepad input in the main menu, save-slot selection, confirmation, difficulty selection, and pause menu. Gameplay movement was also checked. Not every screen or physical controller has been tested.
 
-The installer can run on Linux and should work with the Windows game under Proton, but the mod has not yet been tested in a Linux or Proton game session. The installer refuses game packages that do not match the supported original; other builds and mods may be incompatible.
+The mod has also been tested on Linux using Proton. The installer refuses game packages that do not match the supported original; other builds and mods may be incompatible.
 
 This is an unofficial fan mod and is not affiliated with the game's developer or publisher.
